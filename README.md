@@ -1,2 +1,2 @@
-# smort-age-calculator
-age calculator
+# smort-age-telling-machine
+tells you your age
